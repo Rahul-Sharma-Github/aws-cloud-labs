@@ -1,0 +1,2 @@
+Source Bucket = images-043211234
+Target Bucket = images-043211234-resized
