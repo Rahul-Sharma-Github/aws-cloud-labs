@@ -1,0 +1,1 @@
+arn:aws:iam::770883294476:role/EC2InstanceProfileRole
